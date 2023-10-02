@@ -11,7 +11,7 @@
                                  :show-modules nil)
                   (make-instance 'project-module :name "../newdtree/newdtree"
                                  :show-modules nil)
-                  (make-instance 'project-module :name "../namespase/namespace.lpr"
+                  (make-instance 'project-module :name "../namespace/namespace.lpr"
                                  :show-modules nil))
   :libraries nil
   :editable-files nil

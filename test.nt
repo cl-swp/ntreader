@@ -1,0 +1,37 @@
+<http://rdf.freebase.com/ns/american_football.football_player.footballdb_id>	<http://rdf.freebase.com/ns/type.property.unique>	"true"	.
+<http://rdf.freebase.com/ns/american_football.football_player.footballdb_id>	<http://www.w3.org/2000/01/rdf-schema#label>	"footballdb ID"@en	.
+<http://rdf.freebase.com/ns/american_football.football_player.footballdb_id>	<http://rdf.freebase.com/ns/type.property.expected_type>	<http://rdf.freebase.com/ns/type.enumeration>	.
+<http://rdf.freebase.com/ns/american_football.football_player.footballdb_id>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/american_football.football_player.footballdb_id>	<http://rdf.freebase.com/ns/type.object.name>	"footballdb ID"@en	.
+<http://rdf.freebase.com/ns/american_football.football_player.footballdb_id>	<http://rdf.freebase.com/ns/type.property.schema>	<http://rdf.freebase.com/ns/american_football.football_player>	.
+<http://rdf.freebase.com/ns/american_football.football_player.footballdb_id>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2002/07/owl#FunctionalProperty>	.
+<http://rdf.freebase.com/ns/american_football.football_player.footballdb_id>	<http://www.w3.org/2000/01/rdf-schema#domain>	<http://rdf.freebase.com/ns/american_football.football_player>	.
+<http://rdf.freebase.com/ns/american_football.football_player.footballdb_id>	<http://www.w3.org/2000/01/rdf-schema#range>	<http://rdf.freebase.com/ns/type.enumeration>	.
+<http://rdf.freebase.com/ns/astronomy.astronomical_observatory.discoveries>	<http://rdf.freebase.com/ns/type.object.name>	"Discoveries"@en	.
+<http://rdf.freebase.com/ns/astronomy.astronomical_observatory.discoveries>	<http://rdf.freebase.com/ns/type.property.expected_type>	<http://rdf.freebase.com/ns/astronomy.astronomical_discovery>	.
+<http://rdf.freebase.com/ns/astronomy.astronomical_observatory.discoveries>	<http://rdf.freebase.com/ns/type.property.unique>	"false"	.
+<http://rdf.freebase.com/ns/astronomy.astronomical_observatory.discoveries>	<http://www.w3.org/2000/01/rdf-schema#label>	"Discoveries"@en	.
+<http://rdf.freebase.com/ns/astronomy.astronomical_observatory.discoveries>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/astronomy.astronomical_observatory.discoveries>	<http://rdf.freebase.com/ns/type.property.schema>	<http://rdf.freebase.com/ns/astronomy.astronomical_observatory>	.
+<http://rdf.freebase.com/ns/astronomy.astronomical_observatory.discoveries>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2000/01/rdf-schema#Property>	.
+<http://rdf.freebase.com/ns/astronomy.astronomical_observatory.discoveries>	<http://www.w3.org/2000/01/rdf-schema#domain>	<http://rdf.freebase.com/ns/astronomy.astronomical_observatory>	.
+<http://rdf.freebase.com/ns/astronomy.astronomical_observatory.discoveries>	<http://www.w3.org/2000/01/rdf-schema#range>	<http://rdf.freebase.com/ns/astronomy.astronomical_discovery>	.
+<http://rdf.freebase.com/ns/automotive.body_style.fuel_tank_capacity>	<http://rdf.freebase.com/ns/type.property.unique>	"true"	.
+<http://rdf.freebase.com/ns/automotive.body_style.fuel_tank_capacity>	<http://rdf.freebase.com/ns/type.object.name>	"Fuel Tank Capacity"@en	.
+<http://rdf.freebase.com/ns/automotive.body_style.fuel_tank_capacity>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/automotive.body_style.fuel_tank_capacity>	<http://rdf.freebase.com/ns/type.property.schema>	<http://rdf.freebase.com/ns/automotive.body_style>	.
+<http://rdf.freebase.com/ns/automotive.body_style.fuel_tank_capacity>	<http://rdf.freebase.com/ns/type.property.expected_type>	<http://rdf.freebase.com/ns/type.float>	.
+<http://rdf.freebase.com/ns/automotive.body_style.fuel_tank_capacity>	<http://www.w3.org/2000/01/rdf-schema#label>	"Fuel Tank Capacity"@en	.
+<http://rdf.freebase.com/ns/automotive.body_style.fuel_tank_capacity>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2002/07/owl#FunctionalProperty>	.
+<http://rdf.freebase.com/ns/automotive.body_style.fuel_tank_capacity>	<http://www.w3.org/2000/01/rdf-schema#domain>	<http://rdf.freebase.com/ns/automotive.body_style>	.
+<http://rdf.freebase.com/ns/automotive.body_style.fuel_tank_capacity>	<http://www.w3.org/2000/01/rdf-schema#range>	<http://rdf.freebase.com/ns/type.float>	.
+<http://rdf.freebase.com/ns/automotive.engine.engine_type>	<http://rdf.freebase.com/ns/type.property.reverse_property>	<http://rdf.freebase.com/ns/automotive.engine_type.used_in>	.
+<http://rdf.freebase.com/ns/automotive.engine.engine_type>	<http://rdf.freebase.com/ns/type.object.name>	"Engine Type"@en	.
+<http://rdf.freebase.com/ns/automotive.engine.engine_type>	<http://rdf.freebase.com/ns/type.object.type>	<http://rdf.freebase.com/ns/type.property>	.
+<http://rdf.freebase.com/ns/automotive.engine.engine_type>	<http://www.w3.org/2000/01/rdf-schema#label>	"Engine Type"@en	.
+<http://rdf.freebase.com/ns/automotive.engine.engine_type>	<http://rdf.freebase.com/ns/type.property.schema>	<http://rdf.freebase.com/ns/automotive.engine>	.
+<http://rdf.freebase.com/ns/automotive.engine.engine_type>	<http://rdf.freebase.com/ns/type.property.expected_type>	<http://rdf.freebase.com/ns/automotive.engine_type>	.
+<http://rdf.freebase.com/ns/automotive.engine.engine_type>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2000/01/rdf-schema#Property>	.
+<http://rdf.freebase.com/ns/automotive.engine.engine_type>	<http://www.w3.org/2000/01/rdf-schema#domain>	<http://rdf.freebase.com/ns/automotive.engine>	.
+<http://rdf.freebase.com/ns/automotive.engine.engine_type>	<http://www.w3.org/2000/01/rdf-schema#range>	<http://rdf.freebase.com/ns/automotive.engine_type>	.
+<http://rdf.freebase.com/ns/automotive.engine.engine_type>	<http://www.w3.org/2002/07/owl#inverseOf>	<http://rdf.freebase.com/ns/automotive.engine_type.used_in>	.
